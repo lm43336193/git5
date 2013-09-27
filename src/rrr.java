@@ -1,8 +1,6 @@
 
 public class rrr {
 
-	//dasdasdas
-	//�޸�fsddas
-	//dsadas
+	//新branch
 	
 }
